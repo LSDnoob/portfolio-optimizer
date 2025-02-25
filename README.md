@@ -57,3 +57,6 @@ The portfolio consists of five stocks across different sectors to ensure diversi
 - Sharpe Ratio Maximization to find the best risk-adjusted return.
 - Sector Constraints to limit exposure to specific industries.
 - Factor Models (e.g., Fama-French) to enhance risk modeling.
+
+## Author
+Raunak Prasant
